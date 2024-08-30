@@ -1,5 +1,7 @@
  # Dell Latitude 7490 macOS Sonoma
 
+![Screenshot](Images/screenshot.png)
+
 ## 🔍 Overview
 This repository compiles all the necessary resources to get macOS Sonoma up and running on your Dell Latitude 7490. While this repository is primarily a compilation of existing resources and tools, it includes all the essential components to ensure smooth installation and performance on your Latitude 7490.
 
